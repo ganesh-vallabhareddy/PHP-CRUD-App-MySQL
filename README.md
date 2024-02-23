@@ -25,7 +25,7 @@ This PHP CRUD (Create, Read, Update, Delete) application provides a simple yet e
 - MySQL
 - Web server (Apache)
 - Bootstrap
-- 
+
 ## Visual Reference
 **Screenshots**: Refer to the screenshots for visual representations of the application's user interface and features. 
 1.Create 2.Read 3.Update 4.Delete
@@ -33,17 +33,16 @@ This PHP CRUD (Create, Read, Update, Delete) application provides a simple yet e
 <table>
 
   <tr>
-    <td valign="top"><img src="(https://github.com/ganesh-vallabhareddy/PHP-CRUD-App-MySQL/assets/110174850/83ac5fb8-400f-49f0-b87e-5a8f0527d9d2)"></td>
-    <td valign="top"><img src="(https://github.com/ganesh-vallabhareddy/PHP-CRUD-App-MySQL/assets/110174850/563b3ebf-86d8-4b4a-9838-2b208addf4e1)"></td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/PHP-CRUD-App-MySQL/assets/110174850/83ac5fb8-400f-49f0-b87e-5a8f0527d9d2"></td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/PHP-CRUD-App-MySQL/assets/110174850/563b3ebf-86d8-4b4a-9838-2b208addf4e1"></td>
     </td>
   </tr>
  </table>
 <table>
 &nbsp;
   <tr>
-    <td valign="top"><img src="(https://github.com/ganesh-vallabhareddy/PHP-CRUD-App-MySQL/assets/110174850/8f3d1bd0-db48-4472-a9a4-cb56ee0ddf5c)"></td>
-    <td valign="top"><img src="(https://github.com/ganesh-vallabhareddy/PHP-CRUD-App-MySQL/assets/110174850/b45c03b6-a624-4bfa-93d5-fd0115a60c0a)
-"></td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/PHP-CRUD-App-MySQL/assets/110174850/8f3d1bd0-db48-4472-a9a4-cb56ee0ddf5c"></td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/PHP-CRUD-App-MySQL/assets/110174850/b45c03b6-a624-4bfa-93d5-fd0115a60c0a"></td>
     </td>
   </tr>
  </table>
